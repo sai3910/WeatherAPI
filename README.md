@@ -6,7 +6,11 @@ API which collects json data from openweathermap and sends same json when we req
 
 ## **Install Packages**
 ```pip install -r requirements.txt```
-
+## **export env variables**
+openweatherapikey
+```export API_KEY = ""```
+djangosecretkey
+```export SECRET_KEY = ""``` 
 ## **Usage**
 run server using command 
 
